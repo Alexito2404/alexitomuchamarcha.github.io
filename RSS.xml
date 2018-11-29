@@ -15,23 +15,23 @@ Este es un ejemplo de web basada en la sindicacion de contenidos
     
 <!-- Se definen los distintos items del canal -->
 <item>
-<title>Item01</title>
+<title>El tiempo meterológico</title>
     
-<link>http://www.infoalisal.com/seccion01</link>
+<link>https://weather.com/es-ES/tiempo/hoy/l/40.49,-3.35?par=google</link>
     
 <description>
-Este es un ejemplo01 de web basada en la sindicacion de contenidos movido
+Este es un ejemplo de RSS con el tiempo metereologico
 </description>
     
 </item>
 <item>
     
-<title>Item02</title>
+<title>Noticias</title>
     
-<link>http://www.infoalisal.com/seccion02</link>
+<link>https://elpais.com/economia/2018/11/28/actualidad/1543433047_114115.html</link>
     
 <description>
-Este es un ejemplo02 de web basada en la sindicacion de contenidos
+Aqui hay un ejemplo de noticias
 </description>
     
 </item>
